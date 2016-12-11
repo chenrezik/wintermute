@@ -1,4 +1,11 @@
 site_name: Wintermute Metacortex
+theme: readthedocs
 pages:
 - Home: index.md
-- Keybase Proof: keybase.txt
+- About:
+    - 'Introduction': 'about/introduction.md'
+    - 'License': 'about/license.md'
+- Project HOLODECK:
+    - 'The Metalink Protocol': 'holodeck/metalink_protocol.md'
+    - 'The Metagame Paradox': 'holodeck/metagame_paradox.md'
+    - 'The Sensory Indulgence Tank': 'holodeck/sensory_indulgence_tank.md'
