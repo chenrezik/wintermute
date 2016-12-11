@@ -1,4 +1,4 @@
 site_name: Wintermute Metacortex
-theme: psinder
 pages:
 - Home: index.md
+- Keybase Proof: keybase.txt
