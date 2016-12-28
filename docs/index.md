@@ -10,11 +10,11 @@ The Wintermute Metacortex is an independently curated open-source macromeme conc
 
 Steps:
 
-1) Invite yourself to the [Wintermute Metacortex](https://discord.gg/Y9Ybt4t) Discord channel.
-2) Have a GitHub account.
-3) Install [mkdocs](http://www.mkdocs.org)
-4) [Fork the metacortex repository on GitHub](https://github.com/chenrezik/wintermute).
-5) Create something related to the work done here- be it
+1. Invite yourself to the [Wintermute Metacortex](https://discord.gg/Y9Ybt4t) Discord channel.
+2. Have a GitHub account.
+3. Install [mkdocs](http://www.mkdocs.org)
+4. [Fork the metacortex repository on GitHub](https://github.com/chenrezik/wintermute).
+5. Create something related to the work done here- be it
     * a paper
     * a response to a paper
     * a better layout
@@ -22,10 +22,10 @@ Steps:
     * video/audio/artwork
     * something else entirely
 
-6) Make changes to your fork of the repository to include your creation in the site.
-7) Submit a pull request to the master branch.
-8) Address review comments (if any).
-9) Please note if you agree to license your contributions under the [license](about/license.md).
+6. Make changes to your fork of the repository to include your creation in the site.
+7. Submit a pull request to the master branch.
+8. Address review comments (if any).
+9. Please note if you agree to license your contributions under the [license](about/license.md).
 
 ###Spread the Word
 
