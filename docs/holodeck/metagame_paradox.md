@@ -1,6 +1,6 @@
 #The Metagame Paradox
 
-![featured-image](/img/metagame_paradox/featured-image.png)
+![featured-image](/img/holodeck/metagame_paradox/featured-image.png)
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -196,7 +196,7 @@ Component for the God Machine:
 A computer-controlled scent mixing/dispensing device.
 ```
 
-###Taste:
+####Taste:
 Can be handled in a similar fashion to the sense of smell, using artificial flavorings.
 
 ```

@@ -9,3 +9,5 @@ pages:
     - 'The Metalink Protocol': 'holodeck/metalink_protocol.md'
     - 'The Metagame Paradox': 'holodeck/metagame_paradox.md'
     - 'The Sensory Indulgence Tank': 'holodeck/sensory_indulgence_tank.md'
+- Apocrypha:
+    - 'On the Akashic Records': 'apocrypha/on_the_akashics.md'

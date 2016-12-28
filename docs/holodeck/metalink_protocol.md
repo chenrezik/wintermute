@@ -1,6 +1,6 @@
 #The Metalink Protocol
 
-![featured-image](/img/metalink_protocol/featured-image.png)
+![featured-image](/img/holodeck/metalink_protocol/featured-image.png)
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

@@ -1,6 +1,6 @@
 #The Sensory Indulgence Tank
 
-![featured-image](/img/sensory_indulgence_tank/featured-image.jpg)
+![featured-image](/img/holodeck/sensory_indulgence_tank/featured-image.jpg)
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

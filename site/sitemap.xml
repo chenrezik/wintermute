@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2016-12-11</lastmod>
+     <lastmod>2016-12-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,13 +13,13 @@
         
     <url>
      <loc>/about/introduction/</loc>
-     <lastmod>2016-12-11</lastmod>
+     <lastmod>2016-12-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/about/license/</loc>
-     <lastmod>2016-12-11</lastmod>
+     <lastmod>2016-12-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -29,19 +29,29 @@
         
     <url>
      <loc>/holodeck/metalink_protocol/</loc>
-     <lastmod>2016-12-11</lastmod>
+     <lastmod>2016-12-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/holodeck/metagame_paradox/</loc>
-     <lastmod>2016-12-11</lastmod>
+     <lastmod>2016-12-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/holodeck/sensory_indulgence_tank/</loc>
-     <lastmod>2016-12-11</lastmod>
+     <lastmod>2016-12-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/apocrypha/on_the_akashics/</loc>
+     <lastmod>2016-12-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
